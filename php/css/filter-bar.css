@@ -1,0 +1,36 @@
+
+
+
+
+.bgcolor{
+    background-color: wheat;
+}
+
+.bgcolor_02{
+    background-color:black;
+}
+
+.bgcolor_03{
+    background-color:lightblue;
+}
+
+
+.btn-kootour, .btn-kootour-bold {
+    border-radius: 3px;
+    color: #fff;
+    background-color: #0cc;
+    width: 200px;
+}
+
+.text-center {
+    text-align: center;
+}
+.subtitle {
+    font-size: 18px;
+    font-size: 1.8rem;
+    color: #0cc;
+    padding:0;
+}
+
+/*ayemin*/
+
